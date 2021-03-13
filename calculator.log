@@ -1,0 +1,116 @@
+12/Mar/2021:14:20:26 456 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:14:20:26 506 [Calculator.java] [INFO] calculator.Calculator Factorial of 5.0 is: 120.0
+12/Mar/2021:14:20:26 508 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:14:20:26 510 [Calculator.java] [ERROR] calculator.Calculator Factorial of negative number cannot be found.
+12/Mar/2021:14:20:26 511 [Calculator.java] [INFO] calculator.Calculator Factorial of -5.0 is: NaN
+12/Mar/2021:14:20:26 514 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:14:20:26 516 [Calculator.java] [INFO] calculator.Calculator Square root of 16.0 is: 4.0
+12/Mar/2021:14:20:26 517 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:14:20:26 518 [Calculator.java] [ERROR] calculator.Calculator Square root of negative number cannot be found.
+12/Mar/2021:14:20:26 519 [Calculator.java] [INFO] calculator.Calculator Square root of -16.0 is: NaN
+12/Mar/2021:14:20:26 520 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:14:20:26 521 [Calculator.java] [INFO] calculator.Calculator Square root of 16.0 is: 4.0
+12/Mar/2021:14:20:26 522 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:14:20:26 522 [Calculator.java] [ERROR] calculator.Calculator Square root of negative number cannot be found.
+12/Mar/2021:14:20:26 523 [Calculator.java] [INFO] calculator.Calculator Square root of -16.0 is: NaN
+12/Mar/2021:14:20:26 525 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:14:20:26 540 [Calculator.java] [INFO] calculator.Calculator Natural log of 1.0 is: 0.0
+12/Mar/2021:14:20:26 541 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:14:20:26 542 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+12/Mar/2021:14:20:26 543 [Calculator.java] [INFO] calculator.Calculator Natural log of -5.0 is: NaN
+12/Mar/2021:14:20:26 545 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:14:20:26 547 [Calculator.java] [INFO] calculator.Calculator 5.0^3.0 is: 125.0
+12/Mar/2021:14:20:26 548 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:14:20:26 549 [Calculator.java] [ERROR] calculator.Calculator 0^0 is undefined.
+12/Mar/2021:14:20:26 549 [Calculator.java] [INFO] calculator.Calculator 0.0^0.0 is: NaN
+12/Mar/2021:14:20:26 551 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:14:20:26 552 [Calculator.java] [INFO] calculator.Calculator Natural log of 1.0 is: 0.0
+12/Mar/2021:14:20:26 552 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:14:20:26 554 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+12/Mar/2021:14:20:26 555 [Calculator.java] [INFO] calculator.Calculator Natural log of -5.0 is: NaN
+12/Mar/2021:14:20:26 556 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:14:20:26 557 [Calculator.java] [INFO] calculator.Calculator Factorial of 5.0 is: 120.0
+12/Mar/2021:14:20:26 558 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:14:20:26 559 [Calculator.java] [ERROR] calculator.Calculator Factorial of negative number cannot be found.
+12/Mar/2021:14:20:26 560 [Calculator.java] [INFO] calculator.Calculator Factorial of -5.0 is: NaN
+12/Mar/2021:14:20:26 561 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:14:20:26 562 [Calculator.java] [INFO] calculator.Calculator 5.0^3.0 is: 125.0
+12/Mar/2021:14:20:26 562 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:14:20:26 563 [Calculator.java] [ERROR] calculator.Calculator 0^0 is undefined.
+12/Mar/2021:14:20:26 564 [Calculator.java] [INFO] calculator.Calculator 0.0^0.0 is: NaN
+12/Mar/2021:23:24:40 248 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:23:24:40 284 [Calculator.java] [INFO] calculator.Calculator Factorial of 5.0 is: 120.0
+12/Mar/2021:23:24:40 286 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:23:24:40 287 [Calculator.java] [ERROR] calculator.Calculator Factorial of negative number cannot be found.
+12/Mar/2021:23:24:40 288 [Calculator.java] [INFO] calculator.Calculator Factorial of -5.0 is: NaN
+12/Mar/2021:23:24:40 291 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:23:24:40 293 [Calculator.java] [INFO] calculator.Calculator Square root of 16.0 is: 4.0
+12/Mar/2021:23:24:40 294 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:23:24:40 295 [Calculator.java] [ERROR] calculator.Calculator Square root of negative number cannot be found.
+12/Mar/2021:23:24:40 296 [Calculator.java] [INFO] calculator.Calculator Square root of -16.0 is: NaN
+12/Mar/2021:23:24:40 297 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:23:24:40 298 [Calculator.java] [INFO] calculator.Calculator Square root of 16.0 is: 4.0
+12/Mar/2021:23:24:40 299 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+12/Mar/2021:23:24:40 301 [Calculator.java] [ERROR] calculator.Calculator Square root of negative number cannot be found.
+12/Mar/2021:23:24:40 302 [Calculator.java] [INFO] calculator.Calculator Square root of -16.0 is: NaN
+12/Mar/2021:23:24:40 304 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:23:24:40 305 [Calculator.java] [INFO] calculator.Calculator Natural log of 1.0 is: 0.0
+12/Mar/2021:23:24:40 306 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:23:24:40 308 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+12/Mar/2021:23:24:40 309 [Calculator.java] [INFO] calculator.Calculator Natural log of -5.0 is: NaN
+12/Mar/2021:23:24:40 311 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:23:24:40 313 [Calculator.java] [INFO] calculator.Calculator 5.0^3.0 is: 125.0
+12/Mar/2021:23:24:40 314 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:23:24:40 315 [Calculator.java] [ERROR] calculator.Calculator 0^0 is undefined.
+12/Mar/2021:23:24:40 316 [Calculator.java] [INFO] calculator.Calculator 0.0^0.0 is: NaN
+12/Mar/2021:23:24:40 327 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:23:24:40 330 [Calculator.java] [INFO] calculator.Calculator Natural log of 1.0 is: 0.0
+12/Mar/2021:23:24:40 335 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+12/Mar/2021:23:24:40 336 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+12/Mar/2021:23:24:40 339 [Calculator.java] [INFO] calculator.Calculator Natural log of -5.0 is: NaN
+12/Mar/2021:23:24:40 340 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:23:24:40 341 [Calculator.java] [INFO] calculator.Calculator Factorial of 5.0 is: 120.0
+12/Mar/2021:23:24:40 341 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+12/Mar/2021:23:24:40 342 [Calculator.java] [ERROR] calculator.Calculator Factorial of negative number cannot be found.
+12/Mar/2021:23:24:40 343 [Calculator.java] [INFO] calculator.Calculator Factorial of -5.0 is: NaN
+12/Mar/2021:23:24:40 344 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:23:24:40 345 [Calculator.java] [INFO] calculator.Calculator 5.0^3.0 is: 125.0
+12/Mar/2021:23:24:40 346 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+12/Mar/2021:23:24:40 347 [Calculator.java] [ERROR] calculator.Calculator 0^0 is undefined.
+12/Mar/2021:23:24:40 348 [Calculator.java] [INFO] calculator.Calculator 0.0^0.0 is: NaN
+13/Mar/2021:16:21:25 043 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+13/Mar/2021:16:21:25 063 [Calculator.java] [INFO] calculator.Calculator Square root of 512.0 is: 22.627416997969522
+13/Mar/2021:16:21:29 145 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+13/Mar/2021:16:21:29 147 [Calculator.java] [INFO] calculator.Calculator Square root of 256.0 is: 16.0
+13/Mar/2021:16:21:34 856 [Calculator.java] [INFO] calculator.Calculator SQUARE ROOT FUNCTION
+13/Mar/2021:16:21:34 857 [Calculator.java] [ERROR] calculator.Calculator Square root of negative number cannot be found.
+13/Mar/2021:16:21:34 858 [Calculator.java] [INFO] calculator.Calculator Square root of -256.0 is: NaN
+13/Mar/2021:16:21:41 020 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+13/Mar/2021:16:21:41 021 [Calculator.java] [INFO] calculator.Calculator Factorial of 10.0 is: 3628800.0
+13/Mar/2021:16:21:43 809 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+13/Mar/2021:16:21:43 810 [Calculator.java] [INFO] calculator.Calculator Factorial of 5.0 is: 120.0
+13/Mar/2021:16:21:48 189 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+13/Mar/2021:16:21:48 190 [Calculator.java] [ERROR] calculator.Calculator Factorial of negative number cannot be found.
+13/Mar/2021:16:21:48 191 [Calculator.java] [INFO] calculator.Calculator Factorial of -8.0 is: NaN
+13/Mar/2021:16:21:51 660 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+13/Mar/2021:16:21:51 661 [Calculator.java] [INFO] calculator.Calculator Factorial of 1.0 is: 1.0
+13/Mar/2021:16:21:55 835 [Calculator.java] [INFO] calculator.Calculator FACTORIAL FUNCTION
+13/Mar/2021:16:21:55 835 [Calculator.java] [INFO] calculator.Calculator Factorial of 0.0 is: 1.0
+13/Mar/2021:16:22:00 569 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+13/Mar/2021:16:22:00 570 [Calculator.java] [INFO] calculator.Calculator Natural log of 15.0 is: 2.70805020110221
+13/Mar/2021:16:22:05 672 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+13/Mar/2021:16:22:05 674 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+13/Mar/2021:16:22:05 674 [Calculator.java] [INFO] calculator.Calculator Natural log of -15.0 is: NaN
+13/Mar/2021:16:22:09 380 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+13/Mar/2021:16:22:09 381 [Calculator.java] [ERROR] calculator.Calculator Natural log of negative number or zero cannot be found.
+13/Mar/2021:16:22:09 382 [Calculator.java] [INFO] calculator.Calculator Natural log of 0.0 is: NaN
+13/Mar/2021:16:22:13 101 [Calculator.java] [INFO] calculator.Calculator NATURAL LOG (BASE e) FUNCTION
+13/Mar/2021:16:22:13 102 [Calculator.java] [INFO] calculator.Calculator Natural log of 1.0 is: 0.0
+13/Mar/2021:16:22:19 936 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+13/Mar/2021:16:22:19 937 [Calculator.java] [INFO] calculator.Calculator 5.0^4.0 is: 625.0
+13/Mar/2021:16:22:27 007 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+13/Mar/2021:16:22:27 008 [Calculator.java] [INFO] calculator.Calculator 2.0^8.0 is: 256.0
+13/Mar/2021:16:22:31 131 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+13/Mar/2021:16:22:31 132 [Calculator.java] [INFO] calculator.Calculator 8.0^2.0 is: 64.0
+13/Mar/2021:16:22:36 179 [Calculator.java] [INFO] calculator.Calculator POWER FUNCTION
+13/Mar/2021:16:22:36 180 [Calculator.java] [INFO] calculator.Calculator 4.0^5.0 is: 1024.0
